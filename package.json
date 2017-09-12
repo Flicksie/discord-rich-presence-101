@@ -1,0 +1,11 @@
+{
+  "name": "rich-presence-101",
+  "version": "1.0.0",
+  "description": "As it says in the tin",
+  "main": "ryca.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LucasFlicky",
+  "license": "MIT"
+}
